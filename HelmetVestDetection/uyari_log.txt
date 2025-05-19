@@ -1,0 +1,3 @@
+Uyarı raporu başlatıldı
+UYARI! İşçi 1: Uzun süre no vest çalışıyor!
+UYARI! İşçi 11: Uzun süre no vest çalışıyor!
